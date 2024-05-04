@@ -1,0 +1,3 @@
+langfuse-deepstack
+datasets
+sentence-transformers

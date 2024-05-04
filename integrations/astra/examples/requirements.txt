@@ -1,0 +1,4 @@
+deepstack-ai
+sentence_transformers==2.2.2
+openai==1.6.1
+astrapy>=0.7.7

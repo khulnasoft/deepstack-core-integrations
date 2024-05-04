@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/about-codeowners/ for syntax
+
+# Open Source Engineering will be the default owners for everything
+# in the repo. Unless a later match takes precedence,
+# @khulnasoft/open-source-engineering will be requested for review
+# when someone opens a pull request.
+*                       @khulnasoft/open-source-engineering

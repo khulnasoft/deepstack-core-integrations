@@ -1,0 +1,9 @@
+[template]
+name = "khulnasoft GmbH"
+email = "info@khulnasoft.com"
+
+[template.licenses]
+headers = true
+default = [
+  "Apache-2.0",
+]
